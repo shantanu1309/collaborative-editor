@@ -1,5 +1,17 @@
 # Real-Time Collaborative Document Editor 📝
 
+Company Name: CODTECH IT SOLUTIONS
+
+Name: Shinde Shantanu Dasharath
+
+Intern ID:  CTIS3019
+
+Domain Name: Full Stack Web Development
+
+Batch Duration: 4 Weeks
+
+Mentor Name: Nila Santos
+
 A full-stack, Google Docs-style collaborative editor built using the MERN stack and WebSockets. This application allows multiple users to edit the same document simultaneously with changes appearing in real-time across all sessions.
 
 
