@@ -15,6 +15,10 @@ Mentor Name: Nila Santos
 A full-stack, Google Docs-style collaborative editor built using the MERN stack and WebSockets. This application allows multiple users to edit the same document simultaneously with changes appearing in real-time across all sessions.
 
 
+## Output
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3fc72457-4807-47b4-9ee0-d4348eb1db3e" />
+
 
 ## 🚀 Features
 * **Real-Time Editing:** Instant synchronization across all connected clients using Socket.io.
